@@ -1,0 +1,23 @@
+{
+  "name": "novel",
+  "version": "1.0.0",
+  "description": "这是关于金庸小说介绍的电子书！",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuxueyao/novel.git"
+  },
+  "author": "wuxueyao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuxueyao/novel/issues"
+  },
+  "homepage": "https://github.com/wuxueyao/novel#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2",
+  }
+
+}
