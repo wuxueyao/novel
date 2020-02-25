@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/wuxueyao/novel#readme",
   "devDependencies": {
-    "gitbook-cli": "^2.3.2",
+    "gitbook-cli": "^2.3.2"
   }
 
 }
